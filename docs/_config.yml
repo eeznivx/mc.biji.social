@@ -13,7 +13,7 @@ googleAnalyticsID: G-EMTZ5L1B7W
 # Set basic server info
 serverName: KEJUTOWN SMP
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: play.mc.biji.social:25565
+serverIP: play.biji.social:25565
 useBedrockForOnlineStatus: false
 
 
